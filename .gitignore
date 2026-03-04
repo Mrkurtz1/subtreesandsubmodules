@@ -1,0 +1,8 @@
+# The demo/ directory is created by scripts/bootstrap.sh at runtime.
+# It should not be committed to the project repo.
+demo/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
